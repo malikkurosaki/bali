@@ -1,8 +1,8 @@
 name: bali
-description: A new Flutter package project.
+description: dependensi project flutter.
 version: 0.0.1
-author:
-homepage:
+author: malikkurosaki
+homepage: https://github.com/malikkurosaki/bali
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,6 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get: ^3.13.2
+  get_storage: ^1.3.1
 
 dev_dependencies:
   flutter_test:
