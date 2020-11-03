@@ -70,7 +70,7 @@ class _PutusPutusState extends State<PutusPutus> {
   Widget build(BuildContext context) {
 
     return Container(
-      color: backgroundColor??Colors.white,
+      color: backgroundColor??Colors.transparent,
       padding: EdgeInsets.all(padding??8),
       width: double.infinity,
       key: kunci,
@@ -81,7 +81,7 @@ class _PutusPutusState extends State<PutusPutus> {
           Expanded(
             child: Container(
               width: width??5,
-              color: i %2 == 0?dotColor??Colors.black:Colors.white,
+              color: i %2 == 0?dotColor??Colors.black:Colors.transparent,
               height: height??1,
             ),
           )
