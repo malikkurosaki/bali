@@ -20,7 +20,9 @@ import
 import 'package:bali/bali.dart';
 ```
 
-example
+#### example
+
+garis putus putus
 
 ```dart
 class Halaman1 extends StatelessWidget {
