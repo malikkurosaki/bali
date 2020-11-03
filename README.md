@@ -41,6 +41,7 @@ class Halaman1 extends StatelessWidget {
 }
 ```
 
-![gamar](/assets/images/Screen Shot 2020-11-03 at 16.07.01.png)
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
