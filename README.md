@@ -41,6 +41,6 @@ class Halaman1 extends StatelessWidget {
 }
 ```
 
-![]('/assets/images/Screen Shot 2020-11-03 at 16.07.01.png')
+![gamar]("/assets/images/Screen Shot 2020-11-03 at 16.07.01.png")
 
 
