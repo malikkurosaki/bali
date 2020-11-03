@@ -24,7 +24,6 @@ example
 
 ```dart
 class Halaman1 extends StatelessWidget {
-  final kunci = GlobalKey();
   @override
   Widget build(BuildContext context) {
     return Container(
