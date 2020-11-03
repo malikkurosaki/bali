@@ -42,6 +42,6 @@ class Halaman1 extends StatelessWidget {
 ```
 
 
-![alt text]("/assets/images/Screen Shot 2020-11-03 at 16.07.01.png")
+![alt text](https://github.com/malikkurosaki/bali/blob/master/assets/images/Screen%20Shot%202020-11-03%20at%2016.07.01.png?raw=true)
 
 
